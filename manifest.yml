@@ -1,0 +1,5 @@
+ applications:
+ - name: zealous-borg
+   memory: 256M
+   host: zealous-borg
+   buildpack: staticfile_buildpack
